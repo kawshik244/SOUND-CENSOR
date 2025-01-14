@@ -17,7 +17,7 @@ Offensive content raises significant concerns, especially for younger audiences.
 ---
 
 ## 🛠️ **Workflow of the System**
-![Workflow of the System](images/system_workflow.png)
+![Workflow of the System](images/system_workflow.png.jpg)
 
 1. **Language Identification**: If unspecified, the system automatically detects the language.
 2. **Transcription**: Audio is converted into plain text.  
